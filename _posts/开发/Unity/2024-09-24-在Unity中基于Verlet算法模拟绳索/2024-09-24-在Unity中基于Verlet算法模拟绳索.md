@@ -5,7 +5,7 @@ description: >-
 date: 2024-09-24 03:00:00 +0800
 categories: [开发, Unity]
 tags: [Unity, 绳索模拟, Verlet integration, 泰勒展开, 胡克定律]
-
+comments: true
 math: true
 ---
 ![Desktop View](assets\img\MdAssert\开发\Unity\在Unity中基于Verlet算法模拟绳索\1.gif){: w="640" h="360" }

@@ -118,10 +118,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: "Haoyeohhh/Haoyeohhh.github.io" # <gh-username>/<repo>
+    repo_id: "R_kgDOM0m3og"
+    category: "Announcements"
+    category_id: "DIC_kwDOM0m3os4Ciu-q"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
