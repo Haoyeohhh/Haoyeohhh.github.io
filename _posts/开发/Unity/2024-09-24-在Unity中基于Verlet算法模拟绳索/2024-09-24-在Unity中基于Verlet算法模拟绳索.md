@@ -495,3 +495,12 @@ public float ki = 2000;//劲度系数
 在约束2中调整的**ki**的值，能在更小**lterationStep**下，找到符合预期的绳索。
 
 在约束1中因其直接使用位置约束，故不会出现约束2中**ki**值过大的无限拉伸撕裂情况。
+
+
+
+
+
+## 参考文章
+[在Unity使用Verlet积分实现逼真的绳索](https://zhuanlan.zhihu.com/p/583197760)
+
+[游戏开发技术杂谈10：绳索模拟](https://zhuanlan.zhihu.com/p/511401119)
